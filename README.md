@@ -34,18 +34,18 @@
 <br />
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
+  <summary>:zap: GitHub Stats & Most Used Languages</summary>
 
   <img align="left" alt="Nabil's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=nabil-jbs-id&theme=dark&show_icons=true&hide_border=true" />
-
+  <img align="left" alt="Nabil's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabil-jbs-id&theme=dark" />
 </details>
-
+<!-- 
 <details>
-  <summary>:zap: Most Used Languages</summary>
+  <summary>:zap: </summary>
 
-<img align="left" alt="Nabil's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabil-jbs-id&theme=dark" />
 
-</details>
+
+</details> -->
 
 [java]: https://www.java.com/en/download/help/whatis_java.html
 [kotlin]: https://kotlinlang.org/
